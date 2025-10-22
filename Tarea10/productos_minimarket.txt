@@ -1,0 +1,102 @@
+1. Aceite vegetal
+2. Acondicionador
+3. Agua mineral
+4. Ajo
+5. Arroz
+6. Azúcar
+7. Bananas
+8. Café instantáneo
+9. Caramelos
+10. Cebolla
+11. Cervezas
+12. Chocolate
+13. Chicles
+14. Choclo en lata
+15. Cigarrillos
+16. Coca Cola
+17. Crema dental
+18. Detergente
+19. Dulce de leche
+20. Ensalada enlatada
+21. Escoba
+22. Esponja
+23. Fideos
+24. Flan
+25. Frutillas
+26. Galletitas dulces
+27. Galletitas saladas
+28. Gaseosa lima limón
+29. Gaseosa naranja
+30. Gaseosa pomelo
+31. Harina
+32. Helado
+33. Huevos
+34. Jabón de baño
+35. Jabón en polvo
+36. Jugo en polvo
+37. Jugo natural
+38. Lavandina
+39. Leche
+40. Lechuga
+41. Lentejas
+42. Limón
+43. Manteca
+44. Manzanas
+45. Mermelada
+46. Milanesas congeladas
+47. Pan
+48. Pan rallado
+49. Papel higiénico
+50. Papas
+51. Pastillas de menta
+52. Pescado enlatado
+53. Pila AA
+54. Pila AAA
+55. Polenta
+56. Queso crema
+57. Queso rallado
+58. Queso en barra
+59. Repelente
+60. Sal fina
+61. Sal gruesa
+62. Salsa de tomate
+63. Shampoo
+64. Tapabocas
+65. Té negro
+66. Té verde
+67. Tomate
+68. Tomate en lata
+69. Toallitas húmedas
+70. Trapo de piso
+71. Vino blanco
+72. Vino tinto
+73. Vinagre
+74. Yerba mate
+75. Yogur
+76. Zapallitos
+77. Zanahoria
+78. Servilletas
+79. Desodorante
+80. Fideos instantáneos
+81. Mayonesa
+82. Mostaza
+83. Ketchup
+84. Cereal
+85. Pan de molde
+86. Hamburguesas congeladas
+87. Agua saborizada
+88. Detergente para ropa
+89. Jabón líquido
+90. Papel film
+91. Bolsas de basura
+92. Levadura
+93. Harina integral
+94. Avena
+95. Gaseosa cola
+96. Energizante
+97. Miel
+98. Café molido
+99. Galletas de arroz
+100. Yerba con palo
+101 | Crema americana deslactosada | 2 | 12
+102 | a | 1 | 3
