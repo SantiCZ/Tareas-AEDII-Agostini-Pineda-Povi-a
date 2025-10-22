@@ -1,0 +1,32 @@
+Justificacion SistemaMinimercado.txt
+Profe:Monica Nano
+Estudiantes: Santiago Agostini, Nahuel Pineda y Alejo Poviña
+
+1)Descripcion general del sistema:
+Nuestro proyecto que se ejecuta en c++ simula el funcionamiento basico de un minimercado, permite dar de alta productos, guardarlos en un archivo de texto y realizar busquedas por varios metodos distintos (KMP, Boyer-Moore, fuerza bruta etc).
+Tambien incluye funciones de compresion como (LZW) y cifrado clasico (Cesar, Vigenere entre otros). La estructura está separada por archivos .h, lo que facilita entender el código y poder agregar más cosas en el futuro.
+
+2) Motivo de eleccion:
+Elegimos este sistema porque nos pareció util y facil de adaptar a un negocio real.
+Nos permitio aplicar varios temas vistos en la materia, como algoritmos de búsqueda, compresion de datos y criptografia.
+Ademas, trabajar con archivos .txt lo hace simple de usar y entender, sin depender de bases de datos externas.
+
+3) Ventajas y utilidad practica:
+
+- Se puede registrar y consultar productos facilmente.
+- Las búsquedas son rapidas, incluso si hay muchos artículos.
+- Se pueden comprimir y cifrar archivos para cuidar la informacion.
+- Es portatil y liviano, ya que solo usa archivos de texto y se puede ejecutar en cualquier PC.
+- El código está comentado linea por linea por lo que ayuda a otros a comprenderlo.
+
+4) Limitaciones o cosas que faltan:
+
+Actualmente el sistema solo maneja el inventario básico, sin funciones de ventas, usuarios o reportes automáticos.
+Tampoco tiene control de errores ni validación de formato en los archivos.
+A futuro se podría agregar una conexión a base de datos y módulos para ventas o estadísticas.
+
+5) Conclusion:
+
+Este proyecto nos ayudo a entender como se puede construir un sistema real paso a paso.
+Creemos que es una buena base para seguir mejorandolo y convertirlo en un sistema completo de gestion para un minimercado real.
+Fue una experiencia muy buena ya que combinamos varios temas de la materia y nos permitio trabajar en equipo de forma ordenada y mostrando dia a dia el avance que llevamos.
